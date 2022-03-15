@@ -1,4 +1,4 @@
-  <a href="#"><img width="100%" height="auto" src="https://i.postimg.cc/5yvfHzXk/prueba2-4x.png" height="175px"/></a>
+  <a href="#"><img width="55%" height="auto" src="https://i.postimg.cc/WzLb285H/prueba2-3x.png" height="175px" style="margin-left:10em"/></a>
 
   <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, soy Diana</h1>
   <!-- <h3 align="center">I'm a passionate the digital world from Argentina.</h3> -->
