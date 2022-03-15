@@ -1,4 +1,6 @@
-  <a href="#"><img width="55%" height="auto" src="https://i.postimg.cc/WzLb285H/prueba2-3x.png" height="175px" style="margin-left:10em"/></a>
+  <!-- <a href="#"><img width="55%" height="auto" src="https://i.postimg.cc/WzLb285H/prueba2-3x.png" height="175px" style="margin-left:10em"/></a> -->
+
+  <img width="100%" height="auto" src="https://i.postimg.cc/yd2TpXmB/degrade.png" />
 
   <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, soy Diana</h1>
   <!-- <h3 align="center">I'm a passionate the digital world from Argentina.</h3> -->
@@ -65,7 +67,7 @@
 
   <p align="center">
       <a href="https://github.com/DianaSerradilla/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diana Serradilla streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DianaSerradilla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diana Serradilla streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DianaSerradilla&theme=dracula"/>
       </a>
   </p>
 
@@ -74,20 +76,24 @@
 ## 📊 Mis estadísticas de Github
 <br/>
     <!-- <br/> -->
-      <a href="https://github.com/DianaSerradilla/github-readme-stats"><img alt="Diana Serradilla Github Stats" src="https://github-readme-stats.vercel.app/api?username=DianaSerradilla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/DianaSerradilla/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSerradilla&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/DianaSerradilla/github-readme-stats"><img alt="Diana Serradilla Github Stats" src="https://github-readme-stats.vercel.app/api?username=DianaSerradilla&theme=dracula" /></a>
+      <br/>
+      <br/>
+      <br/>
+    <a href="https://github.com/DianaSerradilla/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSerradilla&theme=dracula" /></a>
+    <br/>
     <br/>
     <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
 
   <br/>
   <br/>
 
-  <a href="https://github.com/DianaSerradilla/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DianaSerradilla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/DianaSerradilla/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DianaSerradilla&theme=dracula " /></a>
 
   <br/>
   <br/>
 
-## Conecta conmigo
+## 💗 Conecta conmigo
 
   <p align="left">
 
@@ -98,7 +104,7 @@
 
   </p>
 
-## ❤ Views and Followers
+## 💗 Views and Followers
 
   <a href="https://www.linkedin.com/in/diana-serradilla/">
       <img src="https://komarev.com/ghpvc/?username=DianaSerradilla">
