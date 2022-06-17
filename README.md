@@ -2,7 +2,7 @@
 
   <img width="100%" height="auto" src="https://i.postimg.cc/yd2TpXmB/degrade.png" />
 
-  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, soy Diana</h1>
+  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, soy Diana</h1>
   <!-- <h3 align="center">I'm a passionate the digital world from Argentina.</h3> -->
   <h3 align="center">Soy una apasionada del mundo digital.</h3>
 
